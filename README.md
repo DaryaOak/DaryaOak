@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DaryaOak and I am a computer schience student
+- 👋 Hi, I’m @DaryaOak and I am a computer science student
 - 👀 I’m interested in AI, game-development, Web-development
 - 🌱 I’m currently learning Python, Assembly (computer science course)
 - 💞️ I’m looking to collaborate on ...
